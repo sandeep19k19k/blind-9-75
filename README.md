@@ -8,7 +8,8 @@ When input type is list and there is gut feel that question can't be solved in O
 
 Now that we are speaking about sorting. let me insert key difference b/w 
 1)sorted(x)  . creates new sorted list .works on any iterable. i.e tuple also
- 2) x.sort()  . in place sorting. no extra space consumption. omnly works on lists.
+
+ 2) x.sort()  . in place sorting. no extra space consumption. only works on lists.
 
 Here , this program can be greatly simplified ,if we sort it.
 i.e sum of 3 values = 0.  

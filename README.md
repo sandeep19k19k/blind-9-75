@@ -7,6 +7,7 @@ key point:
 When input type is list and there is gut feel that question can't be solved in O(n) time,  i.e we take atleast O(nlogn)/O(n^2) , gives us the freedom to use inbuilt sort function in python .( which is O(nlogn) - timsort )
 
 Now that we are speaking about sorting. let me insert key difference b/w 
+
 1)sorted(x)  . creates new sorted list .works on any iterable. i.e tuple also
 
  2) x.sort()  . in place sorting. no extra space consumption. only works on lists.
